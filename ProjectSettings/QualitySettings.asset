@@ -379,17 +379,4 @@ QualitySettings:
     excludedTargetPlatforms: []
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
-    Android: 6
-    Lumin: 5
-    Nintendo 3DS: 5
-    Nintendo Switch: 5
-    Nintendo Switch 2: 5
-    PS4: 5
-    PSP2: 2
-    Stadia: 5
-    Standalone: 6
-    WebGL: 6
-    Windows Store Apps: 5
-    XboxOne: 5
-    iPhone: 2
-    tvOS: 2
+    Nintendo Switch 2: 6
