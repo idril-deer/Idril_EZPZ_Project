@@ -7,6 +7,7 @@ TagManager:
   - CinemachineTarget
   - Coffeecup
   - Chocolate
+  - Plug
   layers:
   - Default
   - TransparentFX
